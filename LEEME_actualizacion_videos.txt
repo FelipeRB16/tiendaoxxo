@@ -1,0 +1,31 @@
+ACTUALIZACIÓN DEL SITIO OXXO: GALERÍA DE TRES VIDEOS
+
+Se actualizó la página Inicio con una galería interactiva de tres videos relacionados con OXXO.
+Al seleccionar una miniatura, cambia el reproductor principal.
+
+VIDEOS INCLUIDOS
+1. Grandes historias OXXO 45 aniversario — canal tiendaoxxo
+   https://www.youtube.com/watch?v=AzR2HGnw0SA
+2. Grandes historias OXXO 45 aniversario — canal tiendaoxxo
+   https://www.youtube.com/watch?v=0-KT9yQI1jI
+3. Así es el primer OXXO del mundo | ¿Cómo fue tan exitoso? — Luisito Comunica
+   https://www.youtube.com/watch?v=Wa7zKL2abFc
+
+PESO DEL SITIO
+Los videos se muestran mediante reproductores iframe de YouTube (youtube-nocookie.com).
+No se descargan ni se guardan archivos MP4 dentro del proyecto. Las miniaturas también
+se solicitan a YouTube al cargarse la página, por lo que no se incorporan como archivos locales.
+
+IMPORTANTE SOBRE LA REPRODUCCIÓN
+Los videos se localizaron en YouTube y son pertinentes para el tema del sitio. La búsqueda
+web no permite confirmar de forma concluyente la configuración actual de inserción de cada
+video. Por eso se incluye el enlace «Ver en YouTube» como alternativa si un propietario
+desactiva la reproducción en sitios externos. Antes de entregar, abre el sitio publicado,
+selecciona las tres miniaturas y confirma que cada video se reproduzca dentro de la página.
+
+PARA PUBLICAR LA ACTUALIZACIÓN
+1. Descomprime el ZIP.
+2. Sube la carpeta completa al mismo servidor donde publicaste el sitio anterior.
+3. Reemplaza los archivos existentes, especialmente index.html, css/estilos.css y js/main.js.
+4. Conserva las carpetas css/ y js/ junto a las cinco páginas HTML.
+5. Abre el sitio publicado y prueba las tres miniaturas.
